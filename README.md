@@ -16,3 +16,10 @@ I'm a creative learner who loves designing, coding and turning ideas into someth
 
 I enjoy creating things that are simple, useful and beautiful.  
 I'm still learning, but I'm excited to grow one project at a time. 🌱
+
+
+## 📊 GitHub Stats
+
+![Suchitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchitra00&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra00&layout=compact&theme=tokyonight)
