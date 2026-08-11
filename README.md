@@ -27,3 +27,8 @@ I'm still learning, but I'm excited to grow one project at a time. 🌱
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
+
+
+## 🌐 Connect With Me
+
+📧 **Email:** Suchitrarai216@gmail.com
