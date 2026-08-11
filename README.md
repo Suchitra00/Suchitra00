@@ -22,4 +22,8 @@ I'm still learning, but I'm excited to grow one project at a time. 🌱
 
 ![Suchitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchitra00&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra00&layout=compact&theme=tokyonight)
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
