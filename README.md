@@ -20,7 +20,7 @@ I'm still learning, but I'm excited to grow one project at a time. 🌱
 
 ## 📊 GitHub Stats
 
-![Suchitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchitra00&show_icons=true&theme=tokyonight)
+![Suchitra's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Suchitra00)
 
 ## 🛠️ Skills & Tools
 
