@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Suchitra 👋
 
-<!--
-**Suchitra00/Suchitra00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Creative Learner | 💻 Web Development Learner | 🌱 Exploring & Creating
 
-Here are some ideas to get you started:
+Welcome to my GitHub! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a creative learner who loves designing, coding and turning ideas into something meaningful.
+
+- 🌷 Currently learning Web Development
+- 💻 Exploring React and modern web technologies
+- 🎨 Interested in UI/UX and creative design
+- 🚀 Building projects and learning along the way
+- 📚 Always curious to learn something new
+
+### ✨ A little about me
+
+I enjoy creating things that are simple, useful and beautiful.  
+I'm still learning, but I'm excited to grow one project at a time. 🌱
